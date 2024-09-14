@@ -1,0 +1,84 @@
+{
+    "listings": [
+        {
+            "name": "Bulbasaur",
+            "price": "\u00a363.00",
+            "url": "https://scrapeme.live/shop/Bulbasaur/"
+        },
+        {
+            "name": "Ivysaur",
+            "price": "\u00a387.00",
+            "url": "https://scrapeme.live/shop/Ivysaur/"
+        },
+        {
+            "name": "Venusaur",
+            "price": "\u00a3105.00",
+            "url": "https://scrapeme.live/shop/Venusaur/"
+        },
+        {
+            "name": "Charmander",
+            "price": "\u00a348.00",
+            "url": "https://scrapeme.live/shop/Charmander/"
+        },
+        {
+            "name": "Charmeleon",
+            "price": "\u00a3165.00",
+            "url": "https://scrapeme.live/shop/Charmeleon/"
+        },
+        {
+            "name": "Charizard",
+            "price": "\u00a3156.00",
+            "url": "https://scrapeme.live/shop/Charizard/"
+        },
+        {
+            "name": "Squirtle",
+            "price": "\u00a3130.00",
+            "url": "https://scrapeme.live/shop/Squirtle/"
+        },
+        {
+            "name": "Wartortle",
+            "price": "\u00a3123.00",
+            "url": "https://scrapeme.live/shop/Wartortle/"
+        },
+        {
+            "name": "Blastoise",
+            "price": "\u00a376.00",
+            "url": "https://scrapeme.live/shop/Blastoise/"
+        },
+        {
+            "name": "Caterpie",
+            "price": "\u00a373.00",
+            "url": "https://scrapeme.live/shop/Caterpie/"
+        },
+        {
+            "name": "Metapod",
+            "price": "\u00a3148.00",
+            "url": "https://scrapeme.live/shop/Metapod/"
+        },
+        {
+            "name": "Butterfree",
+            "price": "\u00a3162.00",
+            "url": "https://scrapeme.live/shop/Butterfree/"
+        },
+        {
+            "name": "Weedle",
+            "price": "\u00a325.00",
+            "url": "https://scrapeme.live/shop/Weedle/"
+        },
+        {
+            "name": "Kakuna",
+            "price": "\u00a3148.00",
+            "url": "https://scrapeme.live/shop/Kakuna/"
+        },
+        {
+            "name": "Beedrill",
+            "price": "\u00a3168.00",
+            "url": "https://scrapeme.live/shop/Beedrill/"
+        },
+        {
+            "name": "Pidgey",
+            "price": "\u00a3159.00",
+            "url": "https://scrapeme.live/shop/Pidgey/"
+        }
+    ]
+}
