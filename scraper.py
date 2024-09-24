@@ -83,7 +83,8 @@ async def fetch_html_playwright(url):
         await page.wait_for_timeout(1000)
         
         # Get the HTML content
-        html = await page.content()
+        # html = await page.content()
+        html = await page.inner_html(".inner-content")
         
         # Close the browser
         await browser.close()
@@ -391,7 +392,7 @@ if __name__ == "__main__":
         timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
         
         # Scrape data
-        raw_html = fetch_html_selenium(url)
+        raw_html = fetch_html_playwright(url)
     
         markdown = html_to_markdown_with_readability(raw_html)
         
